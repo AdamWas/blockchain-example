@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+pydantic
+ipfshttpclient
+python-multipart
+
+# Testing
+pytest
+httpx
+pytest-asyncio
